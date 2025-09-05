@@ -39,7 +39,7 @@ h2{
     flex-direction: row;
      position: relative; 
     width: 1300px;
-    margin-left:300px ;
+    margin-left:190px ;
     box-shadow: 0 4px 10px rgb(201, 201, 201);
     border-radius: 10px;
     background-color:white
@@ -197,4 +197,5 @@ input.error-border {
     border: 1px solid rgb(202, 192, 192);
     
     height: 50px;
+
 }
